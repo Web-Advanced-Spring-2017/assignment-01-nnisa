@@ -1,5 +1,20 @@
 # Assignment 01
 
+A simple to do list using MEAN stack.
+
+Install: MongoDB, Node.js, gulp and express.
+
+To use the app you need to run:
+
+$ mongod $ gulp
+
+Open in http://localhost:3000/ in browser.
+
+
+
+
+
+
 **TODO List**
 
 **Due Date: Week 7 - Midnight of 3/8/2017**
